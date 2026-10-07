@@ -1,0 +1,8 @@
+[
+ {"product_id":101,"product_name":" laptop ","category":"electronics","unit_price":"1200.50"},
+ {"product_id":102,"product_name":"Wireless MOUSE","category":"Electronics","unit_price":"25.99"},
+ {"product_id":103,"product_name":"desk chair","category":"furniture","unit_price":"150"},
+ {"product_id":104,"product_name":"Notebook","category":"stationery","unit_price":"3.5"},
+ {"product_id":105,"product_name":"Notebook","category":"stationery","unit_price":"-1"},
+ {"product_id":104,"product_name":"notebook","category":"Stationery","unit_price":"3.5"}
+]
